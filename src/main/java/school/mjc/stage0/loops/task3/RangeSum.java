@@ -12,5 +12,6 @@ public class RangeSum {
     public static void main(String[] args) {
         RangeSum rangeSum = new RangeSum();
         rangeSum.printSumInclusive(1, 6);
+        rangeSum.printSumInclusive(100, 100);
     }
 }
